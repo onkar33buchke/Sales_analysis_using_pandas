@@ -1,10 +1,10 @@
-# Sales Analysis using Pandas
+## Sales Analysis using Pandas
 Sales analysis performed using Python Pandas library
 
-# Resources Used
+## Resources Used
 Github: https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
-# Information
+## Information
 
 * Strated with merging 12 months sales files into one file
 * Data clearning performed:
